@@ -1,0 +1,87 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-size: 120%;
+	background: grey;
+}
+
+.header{
+	width: 30%;
+	margin: 50px auto 0px;
+	color: white;
+	background: skyblue;
+	text-align: center;
+	border: 1px solid black;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+
+}
+
+.headerIndex{
+	width: 100%;
+	color: white;
+	background: skyblue;
+	text-align: center;
+	
+
+}
+
+.footerIndex{
+	width: 100%;
+	margin: 50px auto 0px;
+	color: white;
+	background: skyblue;
+	text-align: center;
+	border: 1px solid black;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+
+}
+
+form{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid black;
+	background: white;
+	border-radius:  0px 0px 10px 10px;
+}
+
+
+.btn{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: skyblue;
+	border: none;
+	border-radius: 5px;
+	align-self: center;
+}
+
+.alert{
+	margin: 1px green;
+	background: lightgreen;
+	text-decoration-color: green;
+}
+.error{
+	color: red;
+	text-align: left;
+}
+
+.login{
+	text-align:  center; 
+	font-size: 50px;
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
